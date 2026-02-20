@@ -1,0 +1,10 @@
+name = "my-cloudflare-app"
+pages_build_output_dir = "dist"
+
+[vars]
+ENVIRONMENT = "development"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "my-database"
+database_id = "<1a900120-6166-4026-86cc-7a06eab0e235>"
