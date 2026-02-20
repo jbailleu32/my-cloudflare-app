@@ -8,3 +8,7 @@ ENVIRONMENT = "development"
 binding = "DB"
 database_name = "my-database"
 database_id = "1a900120-6166-4026-86cc-7a06eab0e235"
+
+[[kv_namespaces]]
+binding = "MY_KV"
+id = "260bceec72304ef29ea8d47e57ba26fd"
